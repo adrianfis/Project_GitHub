@@ -1,0 +1,18 @@
+- Noisy WaveForm
+- High Peak + Noise
+- Multipeak FRED
+- Noisy FRED
+- Clean FRED
+
+Idea: 2key classifier
+
+F: FRED
+-C: Clean
+-N: Noisy
+-M: Multipeak
+
+T: Trash
+W: Noisy waveform
+
+N: Next Image
+P: Previous Image
